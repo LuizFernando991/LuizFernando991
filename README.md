@@ -29,6 +29,6 @@
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 
  ### Portfólio:
-<a href="https://www.luizfernandodev.netlify.app" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=red"/></a>
+<a href="https://luizfernandodev.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=red"/></a>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00caef&height=120&section=footer"/>
