@@ -9,14 +9,12 @@
   <img src="https://github-profile-trophy.vercel.app/?username=LuizFernando991&theme=tokyonight&row=1&column=6&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
-
-
-<div align="left">  
+<div align="center">  
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizFernando991&layout=compact&hide_border=true&title_color=fff&text_color=fff&bg_color=0d1117" />
 </div>
 
-
-<div align="center"> 
+ ### Social links:
+<div> 
   <a href="https://instagram.com/lfernando.r991" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href = "mailto:lfernando.r991@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lfernandor991/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a>
@@ -24,7 +22,7 @@
  
  ### Main skills:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
-![Typescript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Typescript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 
